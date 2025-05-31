@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alizahh-7
 - 👀 I’m interested in learning Python and web development
-- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on beginner freindly projects
 - 📫 How to reach me @ syeda.alizah06@gmail.com
 - 😄 Pronouns: she
