@@ -38,11 +38,10 @@
 ## 🏆 Achievements
 
 - 🌟 Selected participant @ **GSSoC (GirlScript Summer of Code)**  
-- 🚀 Hackathon finalist & contributor @ **SAWiT AI Hackathon 2025**  
-- 🏅 Selected for **MJ Hackcelerate 2025** with *MysticMinds Project*  
+- 🚀 **SAWiT AI Hackathon Winner** 🏅 *(LLM dataset for colloquial Indian languages)*    
+- 🏅 Campus Ambassador at **GeeksforGeeks & Unstop** 
 - 🌊 Participant @ **GDG Solutions Hackathon 2025** (*AI Marine Cleanup Project*)  
-- 💡 Exploring **HackRx 6.0**, **HackAPrompt**, and other hackathons!  
-
+- 💡 Actively participating in AI hackathons, exploring AI, and contributing to open source 
 ---
 
 ## 🤝 Connect With Me  
