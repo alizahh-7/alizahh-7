@@ -17,7 +17,7 @@
 - 🎓 Pursuing **B.Tech in CSE**  
 - 🌍 Passionate about **real-world impactful tech solutions**  
 
-💡 Dedicated to growing as a developer, exploring **AI, hackathons, and open-source contributions**.  
+💡 Dedicated to growing as a developer, actively participating in **AI hackathons, exploring AI & contributing to open-source**.  
 
 ---
 
@@ -63,7 +63,10 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alizahh-7/alizahh-7/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <!-- Light Mode -->
+  <img src="https://raw.githubusercontent.com/alizahh-7/alizahh-7/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation in light mode"/>
+  <!-- Dark Mode -->
+  <img src="https://raw.githubusercontent.com/alizahh-7/alizahh-7/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Snake animation in dark mode"/>
 </p>
 
 ---
