@@ -17,8 +17,9 @@
 
 ## 📌 Pinned Projects
 
-- 🔗 [Portfolio Website](https://gleeful-phoenix-9d2402.netlify.app/)  
+- 🔗 [MindEd](https://gleeful-phoenix-9d2402.netlify.app/)  
 - 🤖 [PeaceBot](https://github.com/alizahh-7/PeaceBot)  
+- 🚀 [CogniPal](https://cogni-pal.netlify.app/)
 
 ---
 
