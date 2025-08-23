@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Syeda+Alizah!;AI+%26+Software+Dev+Enthusiast;Open+Source+Contributor+%40GSSoC;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00CED1&height=120&section=header"/>
-</p>
-
 ---
 
 ## 👩‍💻 About Me  
@@ -82,6 +78,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00CED1&height=120&section=footer"/>
-</p>
