@@ -60,7 +60,7 @@
 
 <p align="center">
   <!-- Light Mode -->
-  <img src="https://raw.githubusercontent.com/alizahh-7/alizahh-7/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation in light mode"/>
+  <img src="https://raw.githubusercontent.com/alizahh-7/alizahh-7/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation in dark mode"/>
   <!-- Dark Mode -->
   <img src="https://raw.githubusercontent.com/alizahh-7/alizahh-7/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Snake animation in dark mode"/>
 </p>
