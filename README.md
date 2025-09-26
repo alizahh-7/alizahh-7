@@ -1,3 +1,23 @@
+<!-- GitHub Profile Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alizahh-7&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=7" />
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alizahh-7&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alizahh-7&theme=radical&hide_border=true" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizahh-7&layout=compact&theme=radical" />
+</p>
+
 <!-- Animated Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Syeda+Alizah!;AI+%26+Software+Dev+Enthusiast;Open+Source+Contributor+%40GSSoC;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
