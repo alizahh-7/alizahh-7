@@ -1,3 +1,10 @@
+<!-- Animated Header -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3500&pause=1000&color=FF6EC7&center=true&vCenter=true&width=780&lines=Hey%2C+I%27m+Syeda+Alizah!;AI+%26+Software+Dev+Enthusiast;Open+Source+Contributor+%40GSSoC;Always+Learning+%26+Building+%F0%9F%9A%80"
+    alt="Typing SVG" />
+</p>
+
 <!-- Profile Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alizahh-7&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="views" />
