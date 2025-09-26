@@ -17,6 +17,14 @@
 
 ---
 
+## 🏆 Achievements Dashboard  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alizahh-7&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
+</p>
+
+---
+
 ## 💻 Tech Stack  
 
 <p align="center">
@@ -25,11 +33,57 @@
 
 ---
 
-## 📌 Pinned Projects  
+## 📌 Featured Projects  
 
-* 🔗 [MindEd](https://gleeful-phoenix-9d2402.netlify.app/)  
-* 🤖 [PeaceBot](https://github.com/alizahh-7/PeaceBot)  
-* 🚀 [CogniPal](https://cogni-pal.netlify.app/)
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">🤖 PeaceBot</h3>
+  <p align="center">An AI Powered Chrome Extension, built to educate users about Global Conflicts.</p>
+  <p align="center">
+    <a href="https://github.com/alizahh-7/PeaceBot" target="_blank">
+      <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript"/>
+    </a>
+  </p>
+</td>
+
+<td width="50%">
+  <h3 align="center">⚡ ctrl-shift-fix</h3>
+  <p align="center">An AI-Powered VS Code Extension, built to boost productivity.</p>
+  <p align="center">
+    <a href="https://github.com/alizahh-7/ctrl-shift-fix-" target="_blank">
+      <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript"/>
+    </a>
+  </p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+  <h3 align="center">🎶 Spotify Clone</h3>
+  <p align="center">A frontend Spotify clone with AI-Mood feature & search functionality.</p>
+  <p align="center">
+    <a href="https://github.com/alizahh-7/spotify-clone" target="_blank">
+      <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5"/>
+    </a>
+  </p>
+</td>
+
+<td width="50%">
+  <h3 align="center">🚀 CogniPal</h3>
+  <p align="center">A fantasy-themed Alzheimer’s detection & memory training app.</p>
+  <p align="center">
+    <a href="https://cogni-pal.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=netlify"/>
+    </a>
+  </p>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -46,22 +100,11 @@
 
 ---
 
-## 🏆 Achievements  
-
-* 🌟 Selected participant @ **GSSoC (GirlScript Summer of Code)**  
-* 🏅 **SAWiT AI Hackathon Winner** *(LLM dataset for colloquial Indian languages)*  
-* 🚀 Campus Ambassador @ **GeeksforGeeks & Unstop**  
-* 🌊 Participant @ **GDG Solutions Hackathon 2025** (*AI Marine Cleanup Project*)  
-* 💡 Actively participating in **AI hackathons, exploring AI & open-source**  
-
----
-
 ## 🐍 Contribution Snake  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/alizahh-7/alizahh-7/output/github-contribution-grid-snake-dark.svg" alt="Snake animation in dark mode with dates"/>
 </p>
-
 
 ---
 
@@ -73,6 +116,3 @@
   <a href="https://discord.com/users/15_alizah"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/syedaalizah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
----
-
