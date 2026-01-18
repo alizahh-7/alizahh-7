@@ -3,6 +3,12 @@
   <img src="https://static.vecteezy.com/system/resources/thumbnails/012/720/076/small/remote-work-social-media-banner-freelancer-working-distant-on-pc-from-home-linkedin-cover-self-employed-occupation-header-cartoon-flat-illustration-vector.jpg" alt="Banner" />
 </p>
 
+<h2 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=FF6EC7&center=true&vCenter=true&width=700&lines=Heyyy%2C+I'm+Alizah+%F0%9F%8C%B8;A+CSE+Sophomore+%F0%9F%8E%93;Always+Learning%2C+Winning%2C+Failing+%26+Building+Cool+Stuff+%F0%9F%92%AB"
+  />
+</h2>
+
 ---
 
 ## 👩‍💻 About Me  
@@ -53,9 +59,18 @@
 
 ## 📌 Pinned Projects  
 
-- 🔗 **Project One** — *link coming soon*  
-- 🤖 **Project Two** — *link coming soon*  
-- 🚀 **Project Three** — *link coming soon*
+🚀 **CogniPal**  
+AI-powered assistant focused on improving productivity and cognitive support.  
+🔗 https://github.com/alizahh-7/CogniPal  
+
+🧠 **Genieee**  
+An intelligent AI project designed to simplify tasks and enhance user interaction through smart automation.  
+🔗 https://github.com/alizahh-7/Genieee  
+
+🌿 **Health Compass AI**  
+AI-driven health guidance system providing insights and recommendations for better well-being.  
+🔗 https://github.com/alizahh-7/health-compass-ai  
+
 
 ---
 
@@ -72,10 +87,11 @@
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="mailto:your-email-here">
+  <a href="mailto:syeda.alizah06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-link-here">
+  <a href="https://www.linkedin.com/in/SyedaAlizah/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
