@@ -5,7 +5,7 @@
 
 <h2 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=FF6EC7&center=true&vCenter=true&width=600&lines=Heyyy%2C+I'm+Alizah+%F0%9F%91%8B;A+Computer+Science+Sophomore+%F0%9F%8E%93;Interested+in+AI%2C+LLMs+WebDev+%26+Open+Source+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=FF6EC7&center=true&vCenter=true&width=600&lines=Heyyy%2C+I'm+Alizah+%F0%9F%91%8B;A+Computer+Science+Sophomore+%F0%9F%8E%93; Interested+in+AI%2C+LLMs+WebDev+%26+Open+Source+%F0%9F%9A%80"
   />
 </h2>
 
