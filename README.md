@@ -95,3 +95,7 @@ AI-driven health guidance system providing insights and recommendations for bett
   </a>
 </p>
 
+
+<p align="center">
+  <i>"Always learning. Always building."</i>
+</p>
