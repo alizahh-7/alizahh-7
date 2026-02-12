@@ -77,7 +77,7 @@ AI-driven health guidance system providing insights and recommendations for bett
 ## 🏆 Achievements  
 
 🌟 Selected as an **Open-Source Contributor** for **GirlScript Summer of Code (GSSoC)**  
-🏅 Secured **1st place** at **SAWiT AI Hackathon** for developing an **LLM dataset for Indian colloquial languages**  
+🏅 WINNER of **SAWiT AI Hackathon** for developing an **LLM dataset for Indian colloquial languages**  
 🚀 Served as **Campus Ambassador** for **GeeksforGeeks** and **Unstop**  
 🌊 Participated in **GDG Solutions Hackathon 2025**, working on an **AI-driven Marine Cleanup Project**  
 💡 Continuously participating in **AI-focused hackathons and open-source initiatives**
