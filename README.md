@@ -11,7 +11,7 @@
 
 ---
 
-## 👩‍💻 About Me  
+## 👩‍💻 About Me  - https://alizah-portfolio.syeda-alizah06.workers.dev/
 
 🌸 Former Open-Source Contributor at **GirlScript Summer of Code (GSSoC)** & **Hacktoberfest**  
 🤝 Open to collaborating on **AI projects, Web Development & Open Source**  
