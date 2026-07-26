@@ -96,9 +96,4 @@ AI-driven health guidance system providing insights and recommendations for bett
 </p>
 
 
-<p align="center">
-  <i>"Always learning. Always building."</i>
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alizahh-7&theme=react-dark&hide_border=true"/>
 
