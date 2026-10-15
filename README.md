@@ -96,7 +96,6 @@ An intelligent AI project designed to simplify tasks and enhance user interactio
 - ✅ **30+ merged pull requests** across open source projects
 - 🔧 Strong Git and GitHub workflow experience
 
-<yaha apne specific repos/PRs add kar sakti hai>
 
 ---
 
