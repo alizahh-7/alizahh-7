@@ -71,7 +71,6 @@ An intelligent AI project designed to simplify tasks and enhance user interactio
 AI-driven health guidance system providing insights and recommendations for better well-being.  
 🔗 https://github.com/alizahh-7/health-compass-ai  
 
-
 ---
 
 ## 🏆 Achievements  
